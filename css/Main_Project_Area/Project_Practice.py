@@ -4,3 +4,7 @@ print("Let's get started with some code!")
 print("Happy coding!")
 print("Keep learning and experimenting!")
 print("Enjoy the journey of coding!")
+
+print("This is an additional print statement!")
+print("Another print statement to demonstrate the script!")
+print("Yet another print statement to show more output!")

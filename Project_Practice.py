@@ -1,1 +1,6 @@
 print("Hello, World!")
+print("Welcome to my project practice script!")
+print("Let's get started with some code!")
+print("Happy coding!")
+print("Keep learning and experimenting!")
+print("Enjoy the journey of coding!")
